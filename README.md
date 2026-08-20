@@ -29,6 +29,22 @@ I am especially interested in roles where I can bridge business context with han
 - Product thinking for admin tools, client workflows, CRM-style processes, and operational visibility
 - Strong emphasis on structure, documentation, maintainability, and practical outcomes
 
+## GitHub Analytics Snapshot
+
+<p align="center">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=zicario20&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&custom_title=GitHub%20Performance%20Snapshot" alt="GitHub performance snapshot" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicario20&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=6&theme=transparent&hide_border=true&custom_title=Repository%20Language%20Mix" alt="Repository language mix" />
+</p>
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zicario20&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity%20Overview#gh-light-mode-only" width="100%" alt="GitHub activity graph light" />
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zicario20&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=Contribution%20Activity%20Overview#gh-dark-mode-only" width="100%" alt="GitHub activity graph dark" />
+</a>
+
+> Note: the language mix card reflects repository code composition on GitHub, not a direct measure of skill level.
+
 ## Selected Projects
 
 ### [SG Solutions Platform](https://github.com/zicario20/sg-solutions-platform)
