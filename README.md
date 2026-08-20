@@ -1,112 +1,90 @@
-Hi, I’m Sami 👋
+<h1 align="center">Sami Grullon</h1>
 
-Data Analytics • Business Intelligence • Python
+<p align="center">
+  <strong>Data • Automation • Business Systems • Product Thinking</strong>
+</p>
 
-IT graduate building data-driven solutions with Python, SQL, PostgreSQL, Power BI and Excel.
+<p align="center">
+  I build structured systems from messy operations, raw data, and real business problems.
+</p>
 
-I enjoy taking projects from raw data and technical problems to structured pipelines, analysis, visualization and actionable insights.
+<p align="center">
+  <a href="mailto:samigrullon11@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/sami-grullon-0a0536189/">LinkedIn</a>
+</p>
 
-My current focus is Data Analytics and Business Intelligence, supported by a technical background in IT, Python development and automation.
+## What I do
 
-⸻
+I work at the intersection of data analytics, automation, and product operations.
 
-🧰 Analytics Toolkit
+My focus is turning unstructured workflows into dashboards, internal tools, pipelines, and decision-ready systems that teams can actually use.
 
-Analytics & BI
+I am especially interested in roles where I can bridge business context with hands-on building across data, operations, and technical systems.
 
-SQL Power BI Excel Power Query DAX
+## What I bring
 
-Python & Data
+- End-to-end execution: from problem framing to a working system
+- Data and BI workflows with `Python`, `SQL`, `PostgreSQL`, `Power BI`, `Excel`, and ETL pipelines
+- Product thinking for admin tools, client workflows, CRM-style processes, and operational visibility
+- Strong emphasis on structure, documentation, maintainability, and practical outcomes
 
-Python Pandas NumPy Jupyter Notebook
+## Selected Projects
 
-Databases & Data Engineering
+### [SG Solutions Platform](https://github.com/zicario20/sg-solutions-platform)
 
-PostgreSQL SQLAlchemy ETL Data Modeling
+Operations platform spanning a public site, client portal, CRM-style workflows, and admin visibility.
 
-Development
+- Structured for staged rollout: local-first development now, integrations later
+- Covers client and admin separation, internal workflows, document handling, and operational structure
+- Demonstrates product architecture, workflow design, and systems thinking
 
-Git GitHub Docker pytest VS Code
+### [Retail Sales Analytics Platform](https://github.com/zicario20/Retail-Sales-Analytics-Platform)
 
-⸻
+End-to-end analytics project turning raw retail transactions into business intelligence.
 
-🚀 Featured Projects
+- Built a reproducible ETL pipeline and PostgreSQL-backed reporting flow
+- Modeled revenue, margin, customer, and store performance
+- Designed to answer real business questions with SQL and BI reporting
 
-📊 Retail Sales Analytics Platform
+### [Document AI Assistant](https://github.com/zicario20/document-ai-assistant)
 
-End-to-end retail analytics platform built to transform raw transactional data into business insights.
+Document intelligence system focused on ingestion, retrieval, AI-assisted Q&A, and deployment workflows.
 
-Python Pandas PostgreSQL SQL Power BI Docker
+- Structured Python application with tests, CI, and deployment automation
+- Explores document processing and AI-assisted information retrieval
+- Shows applied AI work with an engineering-first approach
 
-What it does
+### [HogFlow](https://github.com/zicario20/hogflow)
 
-* Builds a reproducible ETL pipeline from raw retail data
-* Cleans and validates transactional data
-* Loads structured data into PostgreSQL
-* Uses SQL to analyze business performance
-* Calculates revenue, profit, margin and customer KPIs
-* Supports Power BI reporting and dashboards
+Computer vision operations prototype for livestock counting and movement tracking.
 
-Business questions
+- Combines detection, tracking, directional logic, and validation workflows
+- Explores real-world operational use of computer vision
+- Highlights experimentation, evaluation, and technical R&D
 
-* Which products and stores generate the most revenue?
-* Which areas of the business generate the highest margins?
-* How is revenue changing month over month?
-* Who are the highest-value customers?
-* Which products have the strongest rotation?
+## Core Toolkit
 
-➡️ Explore the project
+- Data and BI: `SQL`, `PostgreSQL`, `Power BI`, `Excel`, `Power Query`, `DAX`
+- Python and automation: `Python`, `Pandas`, `NumPy`, `Jupyter`, `ETL`, `pytest`
+- Systems and product: workflow design, internal tools, operations visibility, modular architecture
+- Engineering: `Git`, `GitHub`, `Docker`, CI workflows, and structured documentation
 
-⸻
+## Current Focus
 
-🐷 HogFlow — Computer Vision Operations System
+I am currently deepening my work in advanced SQL, BI, automation, and systems that connect operations with clearer decision-making.
 
-Computer vision research prototype for evaluating automated livestock counting in constrained passage environments.
+## Roles I am targeting
 
-Python OpenCV Computer Vision Object Detection Multi-Object Tracking Testing
+- Data Analyst
+- BI Analyst
+- Operations Analyst
+- Analytics Engineer
+- Technical Operations / Business Systems
 
-HogFlow explores an end-to-end computer vision pipeline combining detection, tracking, directional crossing, operational workflows and validation infrastructure.
+If you are hiring someone who can translate business needs into working systems, I would be glad to connect.
 
-The project evolved through multiple development phases covering architecture, data acquisition, evaluation, real-time processing, operator workflows and runtime monitoring.
+## Let's connect
 
-➡️ Explore HogFlow
-
-⸻
-
-🤖 Document AI Assistant
-
-Document intelligence project exploring automated document processing and AI-assisted information retrieval.
-
-Python Docker AI Document Processing Evaluation
-
-Built with a structured application architecture including reproducible environments, evaluation tooling, documentation and automated development workflows.
-
-➡️ Explore the project
-
-⸻
-
-🧪 Other Projects
-
-QR Code Generator
-
-A smaller Python project focused on application structure, dependency management, testing and documentation.
-
-➡️ View project
-
-⸻
-
-📚 Currently Expanding
-
-I’m currently strengthening my skills in:
-
-Data Analytics • Advanced SQL • PostgreSQL • Power BI • DAX • Power Query • Data Modeling • Business Intelligence
-
-⸻
-
-🎯 Career Focus
-
-I’m interested in opportunities involving:
-
-Data Analyst • BI Analyst • Reporting Analyst • Operations Analyst • Business Intelligence
-
-I particularly enjoy projects where technical data needs to be transformed into clear business decisions.
+- Email: [samigrullon11@gmail.com](mailto:samigrullon11@gmail.com)
+- LinkedIn: [sami-grullon-0a0536189](https://www.linkedin.com/in/sami-grullon-0a0536189/)
