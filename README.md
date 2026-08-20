@@ -31,19 +31,22 @@ I am especially interested in roles where I can bridge business context with han
 
 ## GitHub Analytics Snapshot
 
+<table align="center">
+  <tr>
+    <td align="center"><strong>6</strong><br/>Public repositories</td>
+    <td align="center"><strong>5</strong><br/>Featured projects</td>
+    <td align="center"><strong>3</strong><br/>Core tracks</td>
+    <td align="center"><strong>Associate</strong><br/>IT Networking</td>
+  </tr>
+</table>
+
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=zicario20&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&custom_title=GitHub%20Performance%20Snapshot" alt="GitHub performance snapshot" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicario20&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=6&theme=transparent&hide_border=true&custom_title=Repository%20Language%20Mix" alt="Repository language mix" />
+  <sub>Focus areas: data analytics, automation, and business systems.</sub>
 </p>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zicario20&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity%20Overview#gh-light-mode-only" width="100%" alt="GitHub activity graph light" />
-</a>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zicario20&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=Contribution%20Activity%20Overview#gh-dark-mode-only" width="100%" alt="GitHub activity graph dark" />
-</a>
-
-> Note: the language mix card reflects repository code composition on GitHub, not a direct measure of skill level.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zicario20&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity%20Overview" width="100%" alt="GitHub activity graph" />
+</p>
 
 ## Selected Projects
 
