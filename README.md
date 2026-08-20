@@ -86,6 +86,10 @@ Computer vision operations prototype for livestock counting and movement trackin
 - Systems and product: workflow design, internal tools, operations visibility, modular architecture
 - Engineering: `Git`, `GitHub`, `Docker`, CI workflows, and structured documentation
 
+## Education
+
+- Associate degree in IT Networking from Keiser University
+
 ## Current Focus
 
 I am currently deepening my work in advanced SQL, BI, automation, and systems that connect operations with clearer decision-making.
